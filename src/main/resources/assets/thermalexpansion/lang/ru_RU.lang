@@ -100,8 +100,8 @@ info.thermalexpansion.clickRight=ПКМ
 info.thermalexpansion.slotsFirst=Только первый слот
 info.thermalexpansion.slotsRand=Случайно использовать предметы
 info.thermalexpansion.slotsRR=Циклически использовать предмет
-info.thermalexpansion.sneakOff=Not Sneaking
-info.thermalexpansion.sneakOn=Sneaking
+info.thermalexpansion.sneakOff=Стоя
+info.thermalexpansion.sneakOn=Сидя
 
 #Tesseract
 info.thermalexpansion.modeBlocked=Заблокированный
@@ -118,11 +118,11 @@ info.thermalexpansion.toggleFill=Переключить: Заполнять
 info.thermalexpansion.toggleWait=Переключено
 
 #Tier Localization
-info.thermalexpansion.creative=Творческий
-info.thermalexpansion.basic=Основной
-info.thermalexpansion.hardened=Усиленный
-info.thermalexpansion.reinforced=Укреплённый
-info.thermalexpansion.resonant=Резонирующий
+info.thermalexpansion.creative=Творческ.
+info.thermalexpansion.basic=Основн.
+info.thermalexpansion.hardened=Усилен.
+info.thermalexpansion.reinforced=Укреплён.
+info.thermalexpansion.resonant=Резонирующ.
 
 info.thermalexpansion.augment=Прирост
 info.thermalexpansion.augment.energyProduced=Энергии произведено
@@ -297,8 +297,8 @@ tab.thermalexpansion.dynamo.reactant.0=Генерирует РФ (Redstone Flux)
 tab.thermalexpansion.dynamo.reactant.1=Твёрдый реагент и жидкое топливо должны быть предоставлены.
 tab.thermalexpansion.dynamo.enervation.0=Извлекает РФ (Redstone Flux) напрямую из природных источников или из объектов, которые содержат его.
 
-tab.thermalexpansion.ender.tesseract.0=Use these to instantly transport things across vast distances or across dimensions.
-tab.thermalexpansion.ender.tesseract.1=Tune the Ender Frequency to determine links.
+tab.thermalexpansion.ender.tesseract.0=Используйте его, чтобы мгновенно транспортировать предметы на огромные расстояния или через измерения
+tab.thermalexpansion.ender.tesseract.1=Настройте частоту Края, чтобы определить соединения.
 
 tab.thermalexpansion.machine.furnace.0=Плавит вещи используя РФ (Redstone Flux).
 tab.thermalexpansion.machine.furnace.1=Использует очень мало энергии для готовки еды.
