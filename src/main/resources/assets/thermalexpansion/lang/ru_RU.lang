@@ -77,12 +77,12 @@ config.thermalexpansion.tweak.crafting=Crafting Handlers
 config.thermalexpansion.tweak.recipe=Рецепты
 
 #Cell
-info.thermalexpansion.decRecv=Уменьшение ввода РФ на
-info.thermalexpansion.decSend=Уменьшение вывода РФ на
-info.thermalexpansion.incRecv=Увеличение ввода РФ на
-info.thermalexpansion.incSend=Увеличение вывода РФ на
-info.thermalexpansion.maxIn=Макс. ввод
-info.thermalexpansion.maxOut=Макс. вывод
+info.thermalexpansion.decRecv=Уменьшение входа RF на
+info.thermalexpansion.decSend=Уменьшение выхода RF на
+info.thermalexpansion.incRecv=Увеличение входа RF на
+info.thermalexpansion.incSend=Увеличение выхода RF на
+info.thermalexpansion.maxIn=Макс. вход
+info.thermalexpansion.maxOut=Макс. выход
 
 #Workbench
 info.thermalexpansion.gridClear=Очистить сетку создания
@@ -138,19 +138,19 @@ info.thermalexpansion.augment.speed=Скорость
 info.thermalexpansion.augment.dynamoCoilDuct=Генератор: Сторонняя доступность
 info.thermalexpansion.augment.dynamoCoilDuct.0=Позволяет вводить и выводить предметы и жидкости через катушку генератора.
 info.thermalexpansion.augment.dynamoEfficiency=Генератор: Эффективность топлива
-info.thermalexpansion.augment.dynamoOutput=Генератор: Выводная энергия
-info.thermalexpansion.augment.dynamoOutput.0=Дополнительный РФ/т
+info.thermalexpansion.augment.dynamoOutput=Генератор: Выходная энергия
+info.thermalexpansion.augment.dynamoOutput.0=Дополнительный RF/т
 info.thermalexpansion.augment.dynamoThrottle=Генератор: Advanced Throttling
 info.thermalexpansion.augment.dynamoThrottle.0=Improves the throttling of a dynamo such that it may reduce energy output to 0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=Автоматический вывод
+info.thermalexpansion.augment.generalAutoTransfer=Автоматический выход
 info.thermalexpansion.augment.generalAutoTransfer.0=Позволяет предметам и жидкостям автоматически выводиться из устройства.
 info.thermalexpansion.augment.generalReconfigSides=Настраиваемые стороны
 info.thermalexpansion.augment.generalReconfigSides.0=Позволяет заново настроить стороны устройства.
 info.thermalexpansion.augment.generalRedstoneControl=Красный контроль
 info.thermalexpansion.augment.generalRedstoneControl.0=Позволяет установить на устройство настройки контроля красным камнем.
 
-info.thermalexpansion.augment.machineSecondary=Механизм: Вторичный вывод
+info.thermalexpansion.augment.machineSecondary=Механизм: Вторичный выход
 info.thermalexpansion.augment.machineSpeed=Механизм: Скорость обработки
 
 info.thermalexpansion.capacitor.0=Активируйте, чтобы заряжать предметы в руке.
@@ -164,7 +164,7 @@ info.thermalexpansion.diagram.0=Используйте сидя, чтобы ст
 info.thermalexpansion.diagram.1=Используйте на устройстве, чтобы скопировать его настройки.
 info.thermalexpansion.diagram.2=Используйте на устройстве, чтобы передать записанные настройки.
 
-info.thermalexpansion.dynamo.generate=Генерирует энергию РФ (Redstone Flux).
+info.thermalexpansion.dynamo.generate=Генерирует энергию RF (Redstone Flux).
 info.thermalexpansion.dynamo.steam=Требуется вода и твёрдое топливо.
 info.thermalexpansion.dynamo.steam.0=Также можно использовать пар.
 info.thermalexpansion.dynamo.magmatic=Требуются горячие жидкости.
@@ -175,14 +175,14 @@ info.thermalexpansion.dynamo.enervation=Извлекает флакс из ра�
 info.thermalexpansion.machine.furnace=Плавит предметы.
 info.thermalexpansion.machine.pulverizer=Дробит предметы.
 info.thermalexpansion.machine.sawmill=Предоставляет дополнительные брёвна.
-info.thermalexpansion.machine.smelter=Плавит сплавы и металлы. Два ввода.
+info.thermalexpansion.machine.smelter=Плавит сплавы и металлы. Два входа.
 info.thermalexpansion.machine.crucible=Расплавляет предметы в жидкости.
 info.thermalexpansion.machine.transposer=Управляет жидкостями и жидкостными контейнерами.
 info.thermalexpansion.machine.precipitator=Замораживает жидкости в твёрдые материалы.
 info.thermalexpansion.machine.extruder=Смешивает горячие и холодные жидкости.
 info.thermalexpansion.machine.accumulator=Тянет ближайшую воду.
 info.thermalexpansion.machine.assembler=Создаёт предметы.
-info.thermalexpansion.machine.charger=Заряжает предметы энергией РФ.
+info.thermalexpansion.machine.charger=Заряжает предметы энергией RF.
 
 info.thermalexpansion.florb1=Вмещает 1000 мВ большинства жидкостей.
 info.thermalexpansion.florb1a=Вмещает 1000 мВ большинства горячих жидкостей.
@@ -273,7 +273,7 @@ itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Предметы
 itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Шарики
 
 #Info Tabs
-tab.thermalexpansion.cell.0=Содержит РФ (Redstone Flux).
+tab.thermalexpansion.cell.0=Содержит RF (Redstone Flux).
 tab.thermalexpansion.cell.1=Удерживайте Shift или Ctrl, для тонкой настройки контроля энергии.
 
 tab.thermalexpansion.device.workbench.0=Создаёт вещи!
@@ -289,18 +289,18 @@ tab.thermalexpansion.device.nullifier.0=Отправляет все вещи в 
 tab.thermalexpansion.device.nullifier.1=Это ужасное место, даже жидкости не могут убежать.
 
 tab.thermalexpansion.dynamo.0=Скорость генерации меняется в зависимости от потребности в энергии.
-tab.thermalexpansion.dynamo.steam.0=Генерирует РФ (Redstone Flux) используя пар.
+tab.thermalexpansion.dynamo.steam.0=Генерирует RF (Redstone Flux) используя пар.
 tab.thermalexpansion.dynamo.steam.1=Твёрдое топливо и вода может быть использована для создания пара.
-tab.thermalexpansion.dynamo.magmatic.0=Генерирует РФ (Redstone Flux) используя очень горячие жидкости.
-tab.thermalexpansion.dynamo.compression.0=Генерирует РФ (Redstone Flux) используя жидкое топливо.
-tab.thermalexpansion.dynamo.reactant.0=Генерирует РФ (Redstone Flux) используя алхимические реакции.
+tab.thermalexpansion.dynamo.magmatic.0=Генерирует RF (Redstone Flux) используя очень горячие жидкости.
+tab.thermalexpansion.dynamo.compression.0=Генерирует RF (Redstone Flux) используя жидкое топливо.
+tab.thermalexpansion.dynamo.reactant.0=Генерирует RF (Redstone Flux) используя алхимические реакции.
 tab.thermalexpansion.dynamo.reactant.1=Твёрдый реагент и жидкое топливо должны быть предоставлены.
-tab.thermalexpansion.dynamo.enervation.0=Извлекает РФ (Redstone Flux) напрямую из природных источников или из объектов, которые содержат его.
+tab.thermalexpansion.dynamo.enervation.0=Извлекает RF (Redstone Flux) напрямую из природных источников или из объектов, которые содержат его.
 
 tab.thermalexpansion.ender.tesseract.0=Используйте его, чтобы мгновенно транспортировать предметы на огромные расстояния или через измерения
 tab.thermalexpansion.ender.tesseract.1=Настройте частоту Края, чтобы определить соединения.
 
-tab.thermalexpansion.machine.furnace.0=Плавит вещи используя РФ (Redstone Flux).
+tab.thermalexpansion.machine.furnace.0=Плавит вещи, используя RF (Redstone Flux).
 tab.thermalexpansion.machine.furnace.1=Использует очень мало энергии для готовки еды.
 tab.thermalexpansion.machine.furnace.2=Ом ном ном.
 tab.thermalexpansion.machine.pulverizer.0=Дробит вещи в другие вещи.
@@ -318,7 +318,7 @@ tab.thermalexpansion.machine.crucible.2=Держите вдали от дете�
 tab.thermalexpansion.machine.transposer.0=Заполняет или опустошает вещи, которые содержат жидкости.
 tab.thermalexpansion.machine.transposer.1=Нажмите кнопку для переключения между "Заполнять" или "Извлекать".
 tab.thermalexpansion.machine.transposer.2=Обычно обратимы.
-tab.thermalexpansion.machine.precipitator.0=Использует РФ (Redstone Flux), чтобы замораживать разные жидкости!
+tab.thermalexpansion.machine.precipitator.0=Использует RF (Redstone Flux), чтобы замораживать разные жидкости!
 tab.thermalexpansion.machine.precipitator.1=Выбранный предмет - это то, что Вы получите, если достаточно жидкости в резервуаре.
 tab.thermalexpansion.machine.precipitator.2=Играйте в снежки.
 tab.thermalexpansion.machine.extruder.0=Смешивает воду и лаву, чтобы создавать разные виды вулканических камней.
@@ -328,7 +328,7 @@ tab.thermalexpansion.machine.accumulator.0=Забирает ближайшую �
 tab.thermalexpansion.machine.accumulator.1=Поместите в лужу воды, чтобы ускорить этот процесс.
 tab.thermalexpansion.machine.accumulator.2=Не тонет.
 tab.thermalexpansion.machine.assembler.0=Создаёт рецепты сохранённые в схемах.
-tab.thermalexpansion.machine.assembler.1=Использует 20 РФ (Redstone Flux) за предмет.
+tab.thermalexpansion.machine.assembler.1=Использует 20 RF (Redstone Flux) за предмет.
 tab.thermalexpansion.machine.assembler.2=Нет, он не будет делать это.
 tab.thermalexpansion.machine.charger.0=Заряжает энергией совместимые предметы.
 tab.thermalexpansion.machine.charger.1=Размер заряда может быть ограничен для предмета.
