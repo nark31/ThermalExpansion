@@ -104,6 +104,7 @@ info.thermalexpansion.sneakOff=Non furtivo
 info.thermalexpansion.sneakOn=Furtivo
 
 #Tesseract
+info.thermalexpansion.inactive=Inattivo
 info.thermalexpansion.modeBlocked=Bloccato
 info.thermalexpansion.modeEnergy=Modalità corrente
 info.thermalexpansion.modeFluid=Modalità fluido
@@ -126,8 +127,9 @@ info.thermalexpansion.resonant=Risonante
 
 info.thermalexpansion.augment=Potenziato
 info.thermalexpansion.augment.energyProduced=Corrente prodotta
-info.thermalexpansion.augment.energyConsumed=Corrente consumata
+info.thermalexpansion.augment.energyUsed=Corrente usata
 info.thermalexpansion.augment.fuelConsumed=Carburante consumata
+info.thermalexpansion.augment.fuelEnergy=Corrente da combustibile base
 info.thermalexpansion.augment.levels.0=Richiede livelli precedenti per essere installato.
 info.thermalexpansion.augment.levels.1=Il più alto livello di potenziamento è usato.
 info.thermalexpansion.augment.machine.0=Richiede un Macchinario
