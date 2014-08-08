@@ -283,9 +283,9 @@ tab.thermalexpansion.device.workbench.0=물품을 조합합니다.
 tab.thermalexpansion.device.workbench.1=조합법을 기록하거나 청사진에서 불러옵니다.
 tab.thermalexpansion.device.workbench.2=작업대에 올려진 기록된 청사진을 Shift 우클릭을 통해 조합을 바로할 수 있습니다.
 #tab.thermalexpansion.device.lexicon.0=
-#tab.thermalexpansion.device.activator.0=It slices! It dices! It pours things, it throws things!
-#tab.thermalexpansion.device.activator.1=Maybe it's random, maybe it isn't. Maybe it's sneaky, maybe not.
-#tab.thermalexpansion.device.activator.2=Deceptively versatile!
+tab.thermalexpansion.device.activator.0=자르고! 굴리고! 붓고! 던지고! 많은 일들을 하는 기계입니다!
+tab.thermalexpansion.device.activator.1=랜덤할 수도 있고.. 아닐 수도 있고.. 알 수 없는 기계.. 일 수도.. 아닐 수도..
+tab.thermalexpansion.device.activator.2=간악하게도 다재다능합니다!
 #tab.thermalexpansion.device.breaker.0=Breaks all the things!
 #tab.thermalexpansion.device.breaker.1=Keep face away from front of device.
 #tab.thermalexpansion.device.nullifier.0=Sends all the things to /dev/null!
@@ -303,9 +303,9 @@ tab.thermalexpansion.device.workbench.2=작업대에 올려진 기록된 청사�
 #tab.thermalexpansion.ender.tesseract.0=Use these to instantly transport things across vast distances or across dimensions.
 #tab.thermalexpansion.ender.tesseract.1=Tune the Ender Frequency to determine links.
 
-#tab.thermalexpansion.machine.furnace.0=Smelt things using Redstone Flux.
-#tab.thermalexpansion.machine.furnace.1=Uses very little energy to cook food.
-#tab.thermalexpansion.machine.furnace.2=Om nom nom.
+tab.thermalexpansion.machine.furnace.0=Redstone Flux를 이용하여 물건을 굽습니다.
+tab.thermalexpansion.machine.furnace.1=음식을 조리할 때는 적은 에너지만을 사용됩니다.
+tab.thermalexpansion.machine.furnace.2=우걱우걱
 #tab.thermalexpansion.machine.pulverizer.0=Smashes things into other things.
 #tab.thermalexpansion.machine.pulverizer.1=Useful for processing ores or converting items.
 #tab.thermalexpansion.machine.pulverizer.2=This is typically not reversible.
@@ -337,14 +337,14 @@ tab.thermalexpansion.device.workbench.2=작업대에 올려진 기록된 청사�
 #tab.thermalexpansion.machine.charger.1=Charge rate may be limited by the item.
 #tab.thermalexpansion.machine.charger.2=Feel the hum.
 
-#tab.thermalexpansion.satchel.0=It's a satchel. Will not store some objects.
-#tab.thermalexpansion.satchel.1=No refunds.
-#tab.thermalexpansion.satchel.creative=Only holds one thing...kind of.
+tab.thermalexpansion.satchel.0=이것은 가방입니다. 몇몇 아이템은 담을 수 없습니다.
+tab.thermalexpansion.satchel.1=환불은 안됩니다.
+tab.thermalexpansion.satchel.creative=한 종류의 아이템만 담을 수 있습니다.
 
-#tab.thermalexpansion.storage.enchant=Can be enchanted to hold more items!
+tab.thermalexpansion.storage.enchant=더 많은 아이템을 보관 가능하게 하는 마법 부여가 가능합니다.
 
-#tab.thermalexpansion.strongbox.0=It's a box! It stores things. Well, most things.
-#tab.thermalexpansion.strongbox.creative=Holds unlimited amounts of a single thing!
+tab.thermalexpansion.strongbox.0=이것은 상자입니다! 물건을 저장합니다. 뭐... 대부분의 물건 말입니다.
+tab.thermalexpansion.strongbox.creative=한가지의 무한한 아이템을 보유하고 있습니다!
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=크리에이티브 캐시
