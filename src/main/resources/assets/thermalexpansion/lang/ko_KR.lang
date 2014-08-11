@@ -153,7 +153,7 @@ info.thermalexpansion.augment.generalReconfigSides.0=기계의 입출력 방향 
 info.thermalexpansion.augment.generalRedstoneControl=레드스톤 제어
 info.thermalexpansion.augment.generalRedstoneControl.0=기계의 레드스톤 신호를 제어할 수 있게 합니다.
 
-info.thermalexpansion.augment.machineSecondary=기계: 추가 생산
+info.thermalexpansion.augment.machineSecondary=기계: 추가 부산물
 info.thermalexpansion.augment.machineSpeed=기계: 속도
 
 info.thermalexpansion.capacitor.0=활성화 되었을 때 손에 있는 아이템을 충전합니다.
